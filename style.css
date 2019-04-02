@@ -1,0 +1,29 @@
+body{
+    background: red;
+}
+#cadastro{
+border-color:rgb(216, 240, 225);
+height: auto;
+width: 70%;
+color:#211f1f;
+margin: auto;
+margin-top: 100px;
+}
+.form-group{
+    margin-top: 10px;
+    width: 70%;
+    margin: auto;
+}
+h3{
+    margin: auto;
+}
+form{
+    padding-top: 5%;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    background-color: azure;
+    border-radius: 3px;
+    
+    margin: auto;
+}
